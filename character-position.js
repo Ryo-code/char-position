@@ -14,3 +14,5 @@ var positionLetters = function(str) {
 
 var userInput = process.argv.slice(2);
 positionLetters(userInput[0]);
+
+console.log("Changed");
